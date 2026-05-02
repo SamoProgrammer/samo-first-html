@@ -1,0 +1,7 @@
+{
+  "name": "samo-first-html",
+  "version": "1.0.0",
+  "description": "my first html project and my first vercel development with edge functions and other features",
+  "private": true,
+  "license": "MIT"
+}
