@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "name": "samo-first-html",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ],
+  "trailingSlash": false
+}
